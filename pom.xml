@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.234.192.97:8081/bnvschaitanya/#browse/browse:walmart-snapshot</url>
+	      <url>http://18.234.192.97:8081/bnvschaitanya/#browse/browse:walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
